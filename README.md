@@ -1,6 +1,6 @@
 # Gruvbox theme for cava
 gruvbox themed cava! nice and cozy 💛🤎
-[preview](gruvbox-cava.mp4)
+![preview](gruvbox-cava.png)
 
 ## How do I apply it?
 1. go to [gruvbox.cava](gruvbox.cava) and copy the contents
